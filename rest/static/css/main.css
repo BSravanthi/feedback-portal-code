@@ -1,0 +1,134 @@
+
+body {
+    font-family:'Raleway' !important;
+    overflow-x: hidden;
+#    font-family:  sans-serif;
+    font-size: 14px;
+    color: #767676;
+}
+
+#feedback-form {
+    width: 80%;
+    margin-top: 30px;
+}
+
+.headInfo {
+    margin-left: 0px; 
+    margin-top: 20px;
+}
+
+.values {
+    margin-left: 0px;
+    text-align: left;
+}
+
+.rowCol {
+    border: 1px solid #ccc
+}
+
+.mainrow {
+    margin-top: 4px;
+}
+
+.navbar-default, .navbar-inverse {
+    border: 0;
+}
+
+/*.footer-div
+{
+    margin-top:120px;
+}*/
+
+.main-logo-a {
+    height: auto;
+    overflow: visible;
+    margin-left: 0px !important;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+}
+
+.menu-a {
+    font-size: 14px !important;
+    font-family: 'Raleway' !important;
+    color: #2C99CD !important;
+    padding-left: 10px !important;
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+    padding-right: 10px !important;
+}
+
+.menu-a-active {
+    color: white !important;
+}
+
+.menu-li {
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.menu-li:HOVER {
+    background-color: #77BB41 !important;
+}
+
+.menu-a:HOVER {
+    color: white !important;
+}
+
+.menu-li-active {
+    background-color: #77BB41;
+}
+
+.menu-ul {
+    margin-top: 45px;
+}
+
+.text-h2-lightblue-small
+{
+	color: #2C99CE;
+	font-size: 1.5em;
+}
+.text-a-lightgreen
+{
+	color: #72AB44;
+	font-size: 1.3em;
+	text-decoration: underline;
+}
+
+.text-a-lightgreen:HOVER
+{
+	color: #72AB44 !important;
+}
+
+.text-normal-gray-small
+{
+	color: #888;
+	font-size: 16px;
+}
+
+.border-right-green-dotted
+{
+	border-right: 2px dotted;
+	 margin-top: 30px;
+	 border-right-color: #678f48;
+	 min-height: 115px;
+}
+/*.footer-div
+{
+margin-top:120px;
+}*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 32em;
+}
+
+td {
+    border: 0px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
